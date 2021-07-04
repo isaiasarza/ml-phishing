@@ -1,0 +1,24 @@
+
+pop_up_window (4),
+using_ip_address(4),
+
+at_symbol(3),
+favicon(3),
+iframe(3),
+submit_info_email(3)
+double_slash(3)
+
+abnormal_url(2),
+web_traffic(2),
+page_rang(2),
+google_index(2),
+links_pointing_to_page(2),
+dns_record(2),
+stats_record(2),
+SSLfinal_State(2),
+url_of_anchor(2),
+age_of_domain (2),
+url_length (2),
+links_in_tags(2),
+preffix_suffix(2),
+disabled_right_click(2)
